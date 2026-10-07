@@ -12,10 +12,10 @@
     "cli"
   ],
   "license": "MIT",
-  "author": "__AUTHOR__",
+  "author": "kofiadeyemiq",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/__GH_OWNER__/wasm-feature-audit.git"
+    "url": "git+https://github.com/quietpelican42/wasm-feature-audit.git"
   },
   "type": "module",
   "engines": {
